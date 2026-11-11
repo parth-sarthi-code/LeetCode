@@ -6,6 +6,7 @@ LeetCode solutions synced with LeetHub v2
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ LeetCode solutions synced with LeetHub v2
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
