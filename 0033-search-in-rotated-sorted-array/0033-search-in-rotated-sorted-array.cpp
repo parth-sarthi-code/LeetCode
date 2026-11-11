@@ -10,6 +10,7 @@ public:
         {
             int mid = low + (high - low) / 2;
             
+          
             if (nums[low] <= nums[mid]) 
             {
                 if (nums[mid] == target) return mid ;
@@ -34,6 +35,11 @@ public:
                 else {
                     high = mid-1;
                 } 
+            }
+            else if (nums[low] == nums[mid] && nums[mid] == nums[high])
+            {
+                low++;
+                high--;
             }
         }
     return ans;   
