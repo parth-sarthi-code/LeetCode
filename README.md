@@ -7,6 +7,7 @@ LeetCode solutions synced with LeetHub v2
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/parth-sarthi-code/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0189-rotate-array) |
 ## Math
@@ -21,5 +22,6 @@ LeetCode solutions synced with LeetHub v2
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/parth-sarthi-code/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parth-sarthi-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
